@@ -1,0 +1,15 @@
+{
+    "require": {
+        "twilio/sdk": "^5.36",
+        "guzzlehttp/guzzle": "^6.3",
+        "zendframework/zend-httphandlerrunner": "^1.1",
+        "psr/log": "^1.1",
+        "silex/silex": "^2.0.4",
+        "monolog/monolog": "^1.22",
+        "twig/twig": "^2.0",
+        "symfony/twig-bridge": "^3"
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}
