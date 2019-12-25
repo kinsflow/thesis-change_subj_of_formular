@@ -293,7 +293,7 @@ session_start();
     </div>
 </div>
 
-
+<i>software built by kinsoft - 08169988402</i>
 <!--<p>height() - returns the height of an element.</p>-->
 <?php session_unset(); ?>
 </body>
